@@ -12,7 +12,7 @@ The project was divided into 3 repositories:
 
 See how it works on the web:
 
-##GIF##
+![Feedback Widget Gif](https://raw.githubusercontent.com/diego5f5/feedback-widget-web/main/readme-assets/feedback-web.gif)
 
 ## Getting Started
 
@@ -34,23 +34,17 @@ This project uses mainly the following libraries and frameworks:
 - [headlessui](https://headlessui.dev/)
 - [tailwindcss](https://tailwindcss.com/)
 
----
-
 ## Installing dependencies
 
 ```
 yarn install
 ```
 
----
-
 ## Running
 
 ```
 yarn dev
 ```
-
----
 
 ## Building
 
